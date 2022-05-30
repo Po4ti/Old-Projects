@@ -1,2 +1,2 @@
 # Old Projects
- Minor fangames from 2018
+Source code of my minor fangames from 2018. Featuring lots of jank code.
