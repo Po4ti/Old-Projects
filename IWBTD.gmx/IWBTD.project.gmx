@@ -221,6 +221,7 @@
     <script>scripts\scrPractice.gml</script>
     <script>scripts\scrDestroySelf.gml</script>
   </scripts>
+  <shaders name="shaders"/>
   <fonts name="fonts">
     <font>fonts\fDefault30</font>
     <font>fonts\fDefault24</font>
